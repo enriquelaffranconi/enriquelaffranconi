@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JSX, React**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-website-968l.vercel.app/](https://react-portfolio-website-968l.vercel.app/)
+- 👨‍💻 All of my projects are available at [enriquelaffranconi.com](https://react-portfolio-website-968l.vercel.app/)
 
 - 📫 How to reach me **enriquelaffranconi@gmail.com**
 
